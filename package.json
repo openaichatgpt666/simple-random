@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "repository": {
 	"type": "git",
-    "url": "https://github.com/openaichatgpt666/simple-random",
+    "url": "https://github.com/openaichatgpt666/simple-random"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
